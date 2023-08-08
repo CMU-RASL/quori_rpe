@@ -1,0 +1,11 @@
+849707.344 - You are doing great, can you focus a bit more on your right side?
+849725.442 - Great work, try to get a full range of motion in your shoulders.
+849737.086 - Great work, nice pace.
+849700.892 - [0, 1, 1, -1, 0]
+849707.236 - [-1, -1, -1, -1, 0]
+849714.643 - [0, -1, -1, -1, -1]
+849720.905 - [-1, 1, 1, -1, -1]
+849725.329 - [0, -1, -1, -1, -1]
+849733.112 - [0, -1, -1, -1, -1]
+849736.984 - [0, -1, -1, -1, -1]
+849685.042 - 0.8

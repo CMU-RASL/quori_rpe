@@ -1,0 +1,11 @@
+<launch>
+
+  <arg name="image_topic" default="/astra_ros/devices/default/color/image_color" />
+  <arg name="publish_viz" default="true" />
+
+  <node pkg="openface2_ros" name="quori_openface2_ros" type="quori_openface2_ros" output="screen">
+      <param name="image_topic" value="$(arg image_topic)" type="str"/>
+      <param name="publish_viz" value="$(arg publish_viz)" type="bool"/>
+  </node>
+
+</launch>

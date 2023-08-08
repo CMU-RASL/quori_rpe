@@ -1,0 +1,9 @@
+1275414.183 - Great work, try to get a full range of motion in your shoulders.
+1275435.569 - Great work, can you focus on stopping your right arm at 90 degrees?
+1275405.03 - [0, -1, -1, -1, -1]
+1275414.06 - [0, -1, -1, -1, -1]
+1275422.709 - [0, -1, -1, -1, -1]
+1275430.504 - [0, -1, -1, -1, -1]
+1275435.431 - [0, -1, -1, -1, -1]
+1275379.828 - 0.8
+1275426.974 - 0.9

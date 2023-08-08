@@ -1,0 +1,13 @@
+685662.919 - You are doing great, try to get a full range of motion in your elbows.
+685681.389 - You got this, can you focus a bit more on a full range of motion in your elbows?
+685698.269 - You are doing great, try to get a full range of motion in your elbows.
+685658.702 - [0, -1, -1, -1, -1]
+685662.873 - [0, -1, -1, -1, -1]
+685670.991 - [0, -1, -1, -1, -1]
+685677.649 - [0, -1, -1, -1, -1]
+685681.343 - [0, -1, -1, -1, -1]
+685688.239 - [-1, -1, -1, -1, -1]
+685693.411 - [0, -1, -1, -1, -1]
+685698.218 - [0, -1, -1, -1, -1]
+685645.58 - 0.8
+685675.113 - 0.9

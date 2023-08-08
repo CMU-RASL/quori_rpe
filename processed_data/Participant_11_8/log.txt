@@ -1,0 +1,12 @@
+597766.464 - You are doing great, try to get a full range of motion in your elbows.
+597782.265 - Nice job, can you speed up a little on the next few?
+597796.396 - Great work, can you try to speed up on the next few?
+597755.791 - [0, 1, 1, 1, 1]
+597762.084 - [-1, -1, -1, -1, -1]
+597766.413 - [0, -1, 0, -1, -1]
+597773.82 - [-1, 1, 1, 1, 1]
+597782.214 - [-1, 0, -1, -1, -1]
+597789.32 - [-1, 1, -1, 1, 1]
+597796.34 - [-1, 1, -1, 1, 1]
+597741.331 - 0.8
+597777.9 - 0.9

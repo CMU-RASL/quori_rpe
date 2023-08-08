@@ -1,0 +1,45 @@
+2023-06-15 14:08:13,151 | INFO | =====================================
+2023-06-15 14:08:13,152 | INFO | STARTING SET 2 OF lateral_raises
+2023-06-15 14:08:13,152 | INFO | =====================================
+2023-06-15 14:08:13,152 | INFO | Moving arm from up to halfway
+2023-06-15 14:08:13,152 | INFO | Moving from [1.7, -1.1, 0, -1.1, 0] to [1.1, -1.1, 0, -1.1, 0] for duration 4
+2023-06-15 14:08:13,153 | INFO | topic[/joint_angles] adding connection to [http://172.26.171.145:40103/], count 0
+2023-06-15 14:08:17,158 | INFO | Robot says: Get ready for set 2 out of 2 of lateral raises
+2023-06-15 14:08:23,164 | INFO | -------------------Recording!
+2023-06-15 14:08:23,165 | INFO | Moving arm from halfway to sides
+2023-06-15 14:08:23,165 | INFO | Moving from [1.1, -1.1, 0, -1.1, 0] to [0, -1.1, 0, -1.1, 0] for duration 4
+2023-06-15 14:08:25,167 | INFO | Robot says: Start lateral raises now
+2023-06-15 14:08:28,447 | INFO | Current peak 76
+2023-06-15 14:08:46,201 | INFO | Current peak 113
+2023-06-15 14:08:46,828 | INFO | Good expert min 2102.136181866245 All expert min 1656.6748846917708
+2023-06-15 14:08:47,373 | INFO | Good expert min 2157.7935534058042 All expert min 2016.4430337246376
+2023-06-15 14:08:47,838 | INFO | Good expert min 2430.8846830194657 All expert min 2430.8846830194657
+2023-06-15 14:08:48,163 | INFO | Good expert min 2793.865788280903 All expert min 2336.8905324715474
+2023-06-15 14:08:48,220 | INFO | Actual Duration 1.225427, Average Expert Duration 3.073079411764706
+2023-06-15 14:08:48,266 | INFO | {'speed': 'good', 'correction': ['high range of motion right shoulder', 'bad left shoulder', 'bad right elbow', 'bad left elbow'], 'evaluation': [-1, -1, -1, -1]}
+2023-06-15 14:08:48,312 | INFO | Evaluation case  with message - 
+2023-06-15 14:08:48,363 | INFO | Speed case  with message - 
+2023-06-15 14:08:48,414 | INFO | Moving from [-0.09779066913820145, -1.0511288389131004, 0.05500772135752327, -1.0622495200948203, 0.09090089837595286] to [-0.09075291369650246, -1.039754903906506, 0.08133338320955147, -1.112095652161153, 0.09354585467919793] for duration 2
+2023-06-15 14:08:50,458 | INFO | Current peak 136
+2023-06-15 14:08:50,938 | INFO | Good expert min 939.2039542937415 All expert min 939.2039542937415
+2023-06-15 14:08:51,488 | INFO | Good expert min 1056.9998013731506 All expert min 1056.9998013731506
+2023-06-15 14:08:51,964 | INFO | Good expert min 1588.302589869322 All expert min 1475.1408598085975
+2023-06-15 14:08:52,311 | INFO | Good expert min 1242.75127881254 All expert min 1242.75127881254
+2023-06-15 14:08:52,357 | INFO | Actual Duration 0.775675, Average Expert Duration 3.073079411764706
+2023-06-15 14:08:52,408 | INFO | {'speed': 'good', 'correction': ['Good right shoulder', 'Good left shoulder', 'low range of motion right elbow', 'Good left elbow'], 'evaluation': [1, 1, -1, 1]}
+2023-06-15 14:08:52,460 | INFO | Evaluation case  with message - 
+2023-06-15 14:08:52,510 | INFO | Speed case  with message - 
+2023-06-15 14:08:52,562 | INFO | Moving from [0.021516178497188315, -1.162355852950069, -0.05382967502032807, -1.073177239611411, -0.08485110927728418] to [0.029528279710464206, -1.0397505428544196, 0.07048075838646861, -1.0299750778943046, 0.07542684374418512] for duration 2
+2023-06-15 14:08:54,952 | INFO | Current peak 476
+2023-06-15 14:09:13,165 | INFO | -------------------Done with exercise
+2023-06-15 14:09:13,165 | INFO | Robot says: Almost done.
+2023-06-15 14:09:16,169 | INFO | Robot says: Rest.
+2023-06-15 14:09:16,169 | INFO | Robot says: Using the scale next to you, how difficult was that last set, from 1 to 10?
+2023-06-15 14:09:16,170 | INFO | Moving arm from sides to up
+2023-06-15 14:09:16,171 | INFO | Moving from [0, -1.1, 0, -1.1, 0] to [1.7, -1.1, 0, -1.1, 0] for duration 4
+2023-06-15 14:09:18,174 | INFO | Total Number of Reps 3
+2023-06-15 14:09:18,174 | INFO | Total Angles 580
+2023-06-15 14:09:18,175 | INFO | topic impl's ref count is zero, deleting topic /joint_angles...
+2023-06-15 14:09:18,175 | INFO | topic[/joint_angles] removing connection to http://172.26.171.145:40103/
+2023-06-15 14:09:18,188 | INFO | Saved file Participant_19_Round_1_Robot_1_Exercise_lateral_raises_Set_2.npz
+2023-06-15 14:09:26,196 | INFO | Robot says: Please walk over to the researcher to fill out a survey.

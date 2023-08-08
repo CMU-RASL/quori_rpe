@@ -1,0 +1,13 @@
+598073.59 - Great job, try to reach your left arm closer to 90 degrees.
+598088.187 - Nice job, can you speed up a little on the next few?
+598103.338 - Great work, can you try to speed up on the next few?
+598069.487 - [0, 1, -1, 1, -1]
+598073.452 - [0, 1, -1, 1, -1]
+598080.827 - [-1, 1, 1, 1, 1]
+598088.034 - [-1, 1, 1, 1, 1]
+598095.505 - [-1, 1, 1, 1, 1]
+598103.185 - [-1, 1, 1, 1, 1]
+598110.371 - [-1, 1, 1, 1, 1]
+598054.762 - 0.8
+598085.106 - 0.9
+598099.755 - 0.9

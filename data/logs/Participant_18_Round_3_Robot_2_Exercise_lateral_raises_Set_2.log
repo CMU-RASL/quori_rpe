@@ -1,0 +1,117 @@
+2023-06-15 13:31:21,110 | INFO | =====================================
+2023-06-15 13:31:21,111 | INFO | STARTING SET 2 OF lateral_raises
+2023-06-15 13:31:21,111 | INFO | =====================================
+2023-06-15 13:31:21,111 | INFO | Moving arm from up to halfway
+2023-06-15 13:31:21,111 | INFO | Moving from [1.7, -1.1, 0, -1.1, 0.2] to [1.1, -1.1, 0, -1.1, 0.2] for duration 4
+2023-06-15 13:31:21,115 | INFO | topic[/joint_angles] adding connection to [http://172.26.171.145:40103/], count 0
+2023-06-15 13:31:25,117 | INFO | Robot says: Get ready for set 2 out of 2 of lateral raises
+2023-06-15 13:31:27,120 | INFO | Robot smiling at intensity 0.6 for duration 4
+2023-06-15 13:31:33,127 | INFO | -------------------Recording!
+2023-06-15 13:31:33,127 | INFO | Moving arm from halfway to sides
+2023-06-15 13:31:33,127 | INFO | Moving from [1.1, -1.1, 0, -1.1, 0.2] to [-0.2, -1.1, 0, -1.1, 0.2] for duration 4
+2023-06-15 13:31:35,130 | INFO | Robot says: Start lateral raises now
+2023-06-15 13:31:37,457 | INFO | Current peak 68
+2023-06-15 13:31:41,210 | INFO | Current peak 177
+2023-06-15 13:31:41,759 | INFO | Good expert min 1765.6917207613426 All expert min 1765.6917207613426
+2023-06-15 13:31:42,347 | INFO | Good expert min 1910.6276353564597 All expert min 1910.6276353564597
+2023-06-15 13:31:42,985 | INFO | Good expert min 3344.2373088440536 All expert min 3344.2373088440536
+2023-06-15 13:31:43,535 | INFO | Good expert min 2396.5080537160447 All expert min 2396.5080537160447
+2023-06-15 13:31:43,577 | INFO | Actual Duration 3.623472, Average Expert Duration 3.073079411764706
+2023-06-15 13:31:43,633 | INFO | {'speed': 'good', 'correction': ['ok right shoulder', 'ok left shoulder', 'bad right elbow', 'bad left elbow'], 'evaluation': [0, 0, -1, -1]}
+2023-06-15 13:31:43,684 | INFO | Evaluation case  with message - 
+2023-06-15 13:31:43,730 | INFO | Speed case  with message - 
+2023-06-15 13:31:43,781 | INFO | Moving from [-0.269705108079102, -1.1365444954439627, -0.09777423470010847, -1.1341555905504122, 0.10850909209093165] to [-0.10387926941768308, -1.1258577679947188, -0.006245417686050275, -1.0169238879241966, 0.10504399231988976] for duration 2
+2023-06-15 13:31:45,675 | INFO | Current peak 205
+2023-06-15 13:31:46,195 | INFO | Good expert min 717.865270736793 All expert min 559.5719762868847
+2023-06-15 13:31:46,828 | INFO | Good expert min 747.8033100354598 All expert min 566.388460357019
+2023-06-15 13:31:47,396 | INFO | Good expert min 1083.649278991525 All expert min 599.0303940326548
+2023-06-15 13:31:47,983 | INFO | Good expert min 833.9044126397115 All expert min 365.2468782373742
+2023-06-15 13:31:48,030 | INFO | Actual Duration 4.399368, Average Expert Duration 3.073079411764706
+2023-06-15 13:31:48,081 | INFO | {'speed': 'good', 'correction': ['low range of motion right shoulder', 'low range of motion left shoulder', 'low range of motion right elbow', 'low range of motion left elbow'], 'evaluation': [-1, -1, -1, -1]}
+2023-06-15 13:31:48,137 | INFO | Evaluation case  with message - 
+2023-06-15 13:31:48,188 | INFO | Speed case  with message - 
+2023-06-15 13:31:48,239 | INFO | Moving from [-0.20411286524574257, -1.19431362375254, -0.01524675248216982, -1.189508538213992, 0.2078360383687172] to [-0.22309705099281005, -1.027688558058194, -0.0670731693777234, -1.1976563062862724, 0.1465795226061449] for duration 2
+2023-06-15 13:31:50,499 | INFO | Current peak 247
+2023-06-15 13:31:51,107 | INFO | Good expert min 972.1841212824472 All expert min 695.1137987669131
+2023-06-15 13:31:51,614 | INFO | Good expert min 879.09770343242 All expert min 777.4998258414196
+2023-06-15 13:31:52,163 | INFO | Good expert min 1158.9873634688245 All expert min 472.17336366649926
+2023-06-15 13:31:52,700 | INFO | Good expert min 809.0873881277338 All expert min 388.49921850764196
+2023-06-15 13:31:52,742 | INFO | Actual Duration 4.91542, Average Expert Duration 3.073079411764706
+2023-06-15 13:31:52,788 | INFO | {'speed': 'good', 'correction': ['low range of motion right shoulder', 'low range of motion left shoulder', 'low range of motion right elbow', 'low range of motion left elbow'], 'evaluation': [-1, -1, -1, -1]}
+2023-06-15 13:31:52,844 | INFO | Evaluation case 1c with message - Focus on fully extending your arms to 90 degrees.
+2023-06-15 13:31:52,890 | INFO | Speed case 4b with message - Good speed, keep it up.
+2023-06-15 13:31:52,941 | INFO | Robot says: Focus on fully extending your arms to 90 degrees.
+2023-06-15 13:31:52,982 | INFO | Moving from [-0.2, -1.1, 0, -1.1, -0.1175] to [-0.2, -1.1, 0, -1.1, -0.1175] for duration 4
+2023-06-15 13:31:57,048 | INFO | Robot frowning at intensity 0.5 for duration 4
+2023-06-15 13:32:00,519 | INFO | Current peak 350
+2023-06-15 13:32:01,219 | INFO | Good expert min 1370.1300997543592 All expert min 1370.1300997543592
+2023-06-15 13:32:01,873 | INFO | Good expert min 826.432849271071 All expert min 826.432849271071
+2023-06-15 13:32:02,355 | INFO | Good expert min 2241.6063341660715 All expert min 1982.5690849890616
+2023-06-15 13:32:02,845 | INFO | Good expert min 1499.0503262352408 All expert min 1455.5826805588706
+2023-06-15 13:32:02,891 | INFO | Actual Duration 9.812382, Average Expert Duration 3.073079411764706
+2023-06-15 13:32:02,937 | INFO | {'speed': 'good', 'correction': ['Good right shoulder', 'Good left shoulder', 'bad right elbow', 'low range of motion left elbow'], 'evaluation': [1, 1, -1, -1]}
+2023-06-15 13:32:02,983 | INFO | Evaluation case  with message - 
+2023-06-15 13:32:03,035 | INFO | Speed case  with message - 
+2023-06-15 13:32:03,091 | INFO | Moving from [-0.12097841100085541, -1.016560197439043, -0.04931090841520019, -1.0035301235447116, -0.15057855895311076] to [-0.2479796804263283, -1.1138439189207692, 0.09304662638557556, -1.0523674254933832, -0.19103046441693147] for duration 2
+2023-06-15 13:32:05,039 | INFO | Current peak 380
+2023-06-15 13:32:05,671 | INFO | Good expert min 546.5716505936958 All expert min 546.5716505936958
+2023-06-15 13:32:06,234 | INFO | Good expert min 482.6520452429301 All expert min 435.2424174559313
+2023-06-15 13:32:06,827 | INFO | Good expert min 1248.802121735392 All expert min 854.8184422741087
+2023-06-15 13:32:07,487 | INFO | Good expert min 974.242594557843 All expert min 697.8697431207055
+2023-06-15 13:32:07,492 | INFO | Actual Duration 4.476211, Average Expert Duration 3.073079411764706
+2023-06-15 13:32:07,534 | INFO | {'speed': 'good', 'correction': ['Good right shoulder', 'low range of motion left shoulder', 'low range of motion right elbow', 'low range of motion left elbow'], 'evaluation': [1, -1, -1, -1]}
+2023-06-15 13:32:07,585 | INFO | Evaluation case  with message - 
+2023-06-15 13:32:07,636 | INFO | Speed case  with message - 
+2023-06-15 13:32:07,692 | INFO | Moving from [-0.1647409567289328, -1.19048123149464, 0.040273064164988964, -1.0803188998288105, -0.08319859214760478] to [-0.17532290345787716, -1.0605377221402432, -0.06366048979829075, -1.1951641035071041, -0.17820165650809394] for duration 2
+2023-06-15 13:32:09,631 | INFO | Current peak 407
+2023-06-15 13:32:10,263 | INFO | Good expert min 519.8010754632326 All expert min 400.72365290133956
+2023-06-15 13:32:10,883 | INFO | Good expert min 530.7559268285289 All expert min 463.348543274098
+2023-06-15 13:32:11,448 | INFO | Good expert min 1203.3585539474532 All expert min 680.9765914465751
+2023-06-15 13:32:11,886 | INFO | Good expert min 1011.934417692683 All expert min 638.1011679645565
+2023-06-15 13:32:11,922 | INFO | Actual Duration 4.406052, Average Expert Duration 3.073079411764706
+2023-06-15 13:32:11,968 | INFO | {'speed': 'good', 'correction': ['low range of motion right shoulder', 'low range of motion left shoulder', 'low range of motion right elbow', 'low range of motion left elbow'], 'evaluation': [-1, -1, -1, -1]}
+2023-06-15 13:32:11,999 | INFO | Evaluation case 1c with message - Make sure your arms reach 90 degrees
+2023-06-15 13:32:12,045 | INFO | Speed case  with message - 
+2023-06-15 13:32:12,091 | INFO | Robot says: Make sure your arms reach 90 degrees
+2023-06-15 13:32:12,137 | INFO | Moving from [-0.2, -1.1, 0, -1.1, -0.1175] to [-0.2, -1.1, 0, -1.1, -0.1175] for duration 4
+2023-06-15 13:32:16,198 | INFO | Robot frowning at intensity 0.5 for duration 4
+2023-06-15 13:32:22,094 | INFO | Current peak 506
+2023-06-15 13:32:22,758 | INFO | Good expert min 1290.2644519446203 All expert min 1223.42359828588
+2023-06-15 13:32:23,127 | INFO | -------------------Done with exercise
+2023-06-15 13:32:23,127 | INFO | Robot says: Almost done.
+2023-06-15 13:32:23,128 | INFO | Good expert min 1195.9735954957648 All expert min 1195.9735954957648
+2023-06-15 13:32:23,163 | INFO | Good expert min 1482.1918882846808 All expert min 1129.9433124991
+2023-06-15 13:32:23,197 | INFO | Good expert min 1141.0067964562468 All expert min 1074.497829473137
+2023-06-15 13:32:23,197 | INFO | Actual Duration 9.763669, Average Expert Duration 3.073079411764706
+2023-06-15 13:32:23,197 | INFO | {'speed': 'good', 'correction': ['low range of motion right shoulder', 'Good left shoulder', 'low range of motion right elbow', 'low range of motion left elbow'], 'evaluation': [-1, 1, -1, -1]}
+2023-06-15 13:32:23,197 | INFO | Evaluation case  with message - 
+2023-06-15 13:32:23,198 | INFO | Speed case 4b with message - Good speed, keep it up.
+2023-06-15 13:32:23,198 | INFO | Skipping Good speed, keep it up.
+2023-06-15 13:32:23,198 | INFO | Moving from [0, -0.8, 0, -0.8, 0.0525] to [-0.2, -1.1, 0, -1.1, -0.1175] for duration 4
+2023-06-15 13:32:26,131 | INFO | Robot says: Rest.
+2023-06-15 13:32:27,203 | INFO | Robot smiling at intensity 0.6 for duration 4
+2023-06-15 13:32:27,242 | INFO | Good expert min 1344.742369593664 All expert min 1344.742369593664
+2023-06-15 13:32:27,275 | INFO | Good expert min 1768.8259756169393 All expert min 1757.8450783306557
+2023-06-15 13:32:27,308 | INFO | Good expert min 3352.5811393500426 All expert min 3352.5811393500426
+2023-06-15 13:32:27,340 | INFO | Good expert min 2736.106585669193 All expert min 2736.106585669193
+2023-06-15 13:32:27,340 | INFO | Actual Duration -3.145517, Average Expert Duration 3.073079411764706
+2023-06-15 13:32:27,341 | INFO | {'speed': 'fast', 'correction': ['Good right shoulder', 'bad left shoulder', 'bad right elbow', 'bad left elbow'], 'evaluation': [1, -1, -1, -1]}
+2023-06-15 13:32:27,341 | INFO | Evaluation case  with message - 
+2023-06-15 13:32:27,341 | INFO | Speed case  with message - 
+2023-06-15 13:32:27,341 | INFO | Moving from [-0.2719093532344746, -1.0148984814619733, 0.07814705613686387, -1.1900904588876549, -0.1543433959370499] to [-0.13787152903379626, -1.0422030432990477, -0.030491221540338773, -1.0321557729712714, -0.17070403820807628] for duration 2
+2023-06-15 13:32:28,134 | INFO | Robot smiling at intensity 0.6 for duration 4
+2023-06-15 13:32:28,165 | INFO | Robot says: Using the scale next to you, how difficult was that last set, from 1 to 10?
+2023-06-15 13:32:28,165 | INFO | Moving arm from sides to up
+2023-06-15 13:32:28,166 | INFO | Moving from [-0.2, -1.1, 0, -1.1, -0.1175] to [1.7, -1.1, 0, -1.1, -0.1175] for duration 4
+2023-06-15 13:32:30,167 | INFO | Total Number of Reps 8
+2023-06-15 13:32:30,167 | INFO | Total Angles 600
+2023-06-15 13:32:30,168 | INFO | topic impl's ref count is zero, deleting topic /joint_angles...
+2023-06-15 13:32:30,169 | INFO | topic[/joint_angles] removing connection to http://172.26.171.145:40103/
+2023-06-15 13:32:30,175 | INFO | Saved file Participant_18_Round_3_Robot_2_Exercise_lateral_raises_Set_2.npz
+2023-06-15 13:32:38,183 | INFO | Robot says: Please walk over to the researcher to fill out a survey.
+2023-06-15 13:32:38,184 | INFO | signal_shutdown [atexit]
+2023-06-15 13:32:38,206 | INFO | topic[/rosout] removing connection to /rosout
+2023-06-15 13:32:38,207 | INFO | topic[/quori_sound] removing connection to /quori_sound
+2023-06-15 13:32:38,207 | INFO | topic[/quori/joint_trajectory_controller/command] removing connection to /quori/quori_controller
+2023-06-15 13:32:38,207 | INFO | topic[/quori/face_generator_emotion] removing connection to /rosbridge_websocket
+2023-06-15 13:32:38,207 | INFO | atexit

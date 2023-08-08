@@ -1,0 +1,15 @@
+685770.821 - You are doing great, try to get a full range of motion in your elbows.
+685789.499 - You are doing great, can you focus a bit more on your left side?
+685800.513 - Great work, nice pace.
+685808.413 - You got this, can you focus a bit more on your left side?
+685766.076 - [0, -1, -1, -1, -1]
+685770.749 - [0, -1, -1, -1, -1]
+685778.006 - [0, -1, -1, -1, -1]
+685785.259 - [0, -1, -1, -1, -1]
+685789.417 - [0, -1, -1, -1, -1]
+685796.459 - [0, -1, -1, -1, -1]
+685800.431 - [0, -1, -1, -1, -1]
+685808.331 - [0, -1, -1, -1, -1]
+685752.746 - 0.8
+685782.179 - 0.9
+685804.564 - 0.9
